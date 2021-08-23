@@ -3,3 +3,7 @@ def hello(name):
   
 def my_sum(a, b):
   return a + b
+
+def hello_world():
+  name = 'Rafa'
+  print(f'Hello world! My name is {name}')
